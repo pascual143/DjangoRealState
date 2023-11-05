@@ -10,7 +10,7 @@ This application has been created with the purpose of learning and practicing wi
           - Create superusers
           - Migrations with Python and SQL
           - Manage Django Admin
-          - Base Templates
+          - Base Template
           - Static files
           - Image urls
           - Adding Google Maps
