@@ -1,4 +1,4 @@
-# Python Django App
+# Python Django App Real Estate
 This application has been created with the purpose of learning and practicing with Python. For this, we have used Django, bootstrap for the styles and Google API for the maps.
 
 # PythonRealState
